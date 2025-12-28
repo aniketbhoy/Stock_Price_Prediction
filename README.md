@@ -1,4 +1,4 @@
-![Build Status](https://github.com/aniketbhoy74/Stock_Price_Prediction/actions/workflows/docker-publish.yml/badge.svg)
+![Build Status](https://github.com/aniketbhoy/Stock_Price_Prediction/actions/workflows/docker-publish.yml/badge.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/aniketbhoy74/stock-price-prediction)
 ![Docker Image Size](https://img.shields.io/docker/image-size/aniketbhoy74/stock-price-prediction)
 
